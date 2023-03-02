@@ -2,7 +2,7 @@
 
 I am a school of code graduate looking for my first role in the tech industry! I have come from many interesting jobs and roles, starting by gaining a degree in Bsc Economics and working in the corporate world as an ad ops executive to running my own screen printing business. I also worked as a carpenter and furniture maker and to expand my mind (and save my body from injury) I decided to take the leap from making in the physical world to making in the digital world, joining the School of Code to achieve this! <br/>
 
-During my life of work I've picked up many skills which have been neccessary in day to day life: <br/>
+## During my life of work I've picked up many skills which have been neccessary in the day to day: <br/>
 - I consider myself to be a great communicator as I've had experience breaking down technical and complicated subjects into easily explainable language. <br/>
 - Problem solving, finding the easiest solutions and making sure not to overcomplicate the method to achieve the outome.<br/>
 - I'm not afraid to take risks and push myself out of the comfort zone.<br/>
