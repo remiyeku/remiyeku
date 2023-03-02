@@ -12,7 +12,7 @@ During my life of work I've picked up many skills which have been neccessary in 
 - Familiar with the agile working style.
 
 Through School of Code I've learned:
-[JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 TypeScript
 PostgreSQL
 NodeJS
