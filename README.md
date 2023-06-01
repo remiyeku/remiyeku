@@ -9,7 +9,7 @@ I am a school of code graduate looking for my first role in the tech industry! I
 - I love change and won't shy away from shaking things up if there's another way to do it (however I'm adaptable and won't try to change things for the sake of it).<br/>
 - I gain energy from building ideas with people and creating something together.<br/>
 - I can be a leader who focuses on building connections with people to bring out their best ideas, including everyone by making psychological safety a priority. <br/>
-- Familiar with the agile working style.
+- Developed in an agile environment with weekly sprints.
 
 ### I've learned to use the following for full stack development:<br/>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
