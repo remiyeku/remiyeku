@@ -5,15 +5,15 @@ well-rounded and capable professional. I gained a strong background in technical
 engineering at the Smallpiece Trust and restoration work which also gave me a solid foundation in
 problem-solving and analytical thinking. Beyond my technical expertise, I have demonstrated
 leadership abilities as a school prefect, showcasing my ability to take responsibility and manage
-tasks effectively. Additionally, I have had the opportunity to perform on stage at the Globe Theatre
+tasks effectively.Additionally, I have had the opportunity to perform on stage at the Globe Theatre
 as part of a summer school, highlighting my creativity and confidence in public speaking and my
-ability to take on multiple roles.
+ability to take on multiple roles. <br/> <br/>
 My passion for the arts extends to painting, drawing, and photography; showing a keen design eye. I
 have organized and marketed exhibitions to showcase my work, honing my skills in project
 management, marketing and event organising. I also have experience in music, having performed on
 stage multiple times and achieved a Grade 5 Piano certification. This shows further an ability to
 perform in team settings, harmonising with them. Music study has also been proven to improve
-pattern recognition and creative thinking.
+pattern recognition and creative thinking. <br/> <br/>
 As a full stack developer, I possess a good understanding of web development principles and
 technologies however I understand I have lots to learn. My knowledge is complemented by a usercentered design approach, ensuring that I prioritize the needs and experiences of users throughout
 the development process. Overall, my achievements and soft skills make me a well-rounded junior
