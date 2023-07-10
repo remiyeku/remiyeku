@@ -1,4 +1,4 @@
-## Hi I'm Remi 👋
+## Hi I'm Anthony 👋
 
 As a junior Javascript developer, I bring a diverse range of achievements and skills that make me a
 well-rounded and capable professional. I gained a strong background in technical skills by practicing
